@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HorizontalIndicator">
+        <!--<attr name="feel_color" format="boolean" />
+        <attr name="src" format="string" />
+        <attr name="stroke_size" format="float" />
+        <attr name="feel_back_color" format="string" />
+        <attr name="draw_img_back" format="integer" />
+        <attr name="feel_type" format="enum">
+            <enum name="resize_center" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="resize_center_with_ratio" value="2"/>
+        </attr>-->
+    </declare-styleable>
+</resources>
